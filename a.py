@@ -1,5 +1,6 @@
 import sys
 def printname(name):
     print(name)
-printname("shyam") 
+printname("shyam")
+printname("what")
 
